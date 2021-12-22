@@ -78,7 +78,7 @@ FileGDB_API_1_5_1-VS2017.zip
 
 ## Resources
 * [ArcGIS Blog](http://blogs.esri.com/esri/arcgis/)
-* [GeoNet] (https://geonet.esri.com/community/developers/gis-developers/file-geodatabase-api)
+* [GeoNet](https://geonet.esri.com/community/developers/gis-developers/file-geodatabase-api)
 * Esri customers can call Technical Support for assistance or to report issues.
 
 ## Issues
