@@ -1,4 +1,4 @@
-\\# FileGeodatabaseAPI
+# FileGeodatabaseAPI
 The File Geodatabase C++ API for Windows, MacOS and Linux. The API provides basic tools that allow the creation of file geodatbases, feature classes and tables. Simple features can be created and loaded. See the README included in each of the zip/tar files for a more complete list. .NET bindings are included.
 
 ## Features
@@ -25,7 +25,7 @@ FileGDB_API_1_5_1-VS2017.zip
 
 ## Requirements
 
-#####Windows
+##### Windows
         Windows 2008 Server Standard, Enterprise & Datacenter (32-bit and 64-bit) SP2
         Windows 2008 R2 Server Standard, Enterprise, and Datacenter (64-bit)
         Windows 2012 Server Standard and Datacenter (64-bit)  
@@ -53,7 +53,7 @@ FileGDB_API_1_5_1-VS2017.zip
         Visual Studio 2017 C and C++ Runtimes required for deployment.
         .NET 4.5.1 Framework is required for the .NET wrapper.
 		 
-#####Linux
+##### Linux
         Red Hat Enterprise Linux Server 5.7+
         Red Hat Enterprise Linux Server 6.x
         Red Hat Enterprise Linux Server 7.x
@@ -66,7 +66,7 @@ FileGDB_API_1_5_1-VS2017.zip
         The minimum version of clang is clang 3.7
         If you are using gcc 5.x and above you will need to use the FileGDB API version for GCC5.
 		
-#####MacOS
+##### MacOS
 		An Intel-based Mac is required.
 		
         Yosemite (10.10)
