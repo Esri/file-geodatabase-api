@@ -1,27 +1,22 @@
-\\# FileGeodatabaseAPI
+\\# FileGeodatabaseAPI_1.5.2 (1.5.1.308)
 The File Geodatabase C++ API for Windows, MacOS and Linux. The API provides basic tools that allow the creation of file geodatbases, feature classes and tables. Simple features can be created and loaded. See the README included in each of the zip/tar files for a more complete list. .NET bindings are included.
 
 ## Features
 
 ## Instructions
-Download the version/operating system/compiler varient(s) of the API that you need and unzip it into a folder. Note that the 1.5.1 version is used here for example.
+Download the operating system/compiler varient(s) of the API that you need and unzip it into a folder.
 
-Linux (32-bit, 64-bit):
-FileGDB_API_1_5_1-32.tar.gz
-FileGDB_API_1_5_1-32gcc51.tar.gz
-FileGDB_API_1_5_1-64.tar.gz
-FileGDB_API_1_5_1-64gcc51.tar.gz
+Linux (64-bit):
+FileGDB_API-RHEL7-64gcc83.tar.gz
+FileGDB_API_RHEL7_64.tar.gz
 
 MacOS:
-FileGDB_API_1_5_1-64clang.zip
-FileGDB_API_1_5_1-64gcc.zip
+FileGDB_API_MACOSX15_64clang.zip
+FileGDB_API_MACOSX15_64gcc8.zip
 
 Windows:
-FileGDB_API_1_5_1-VS2010.zip
-FileGDB_API_1_5_1-VS2012.zip
-FileGDB_API_1_5_1-VS2013.zip
-FileGDB_API_1_5_1-VS2015.zip
-FileGDB_API_1_5_1-VS2017.zip
+FileGDB_API_VS2017.zip
+FileGDB_API_VS2019.zip
 
 ## Requirements
 
