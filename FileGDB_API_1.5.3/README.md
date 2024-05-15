@@ -7,6 +7,8 @@ Updated operating system and compiler support.
 ### Fixed 
 An error is returned when you try to create a feature class in a file geodatabase created in Pro 2.3 or later.
 
+Feature classes can be joined, but the fields list must contain at most one field of type geometry.
+
 ## Instructions
 Download the operating system/compiler varient(s) of the API that you need and unzip it into a folder.
 
@@ -24,25 +26,28 @@ Windows:
 
 ## Requirements
 
-#####Windows
+##### Windows
+        
         Windows 10 version 1703 or higher: Home, Professional, Education, and Enterprise (LTSC and S are not supported) (64-bit)
         Windows 11 version 21H2 or higher: Home, Pro, Pro Education, Pro for Workstations, Enterprise, and Education (64-bit)		
         Windows Server 2016: Standard and Datacenter (64-bit)
-		Windows Server 2019: Standard and Datacenter (64-bit)
+        Windows Server 2019: Standard and Datacenter (64-bit)
 		
         For more information, see http://www.microsoft.com/visualstudio/11/en-us/products/compatibility
         See the same link for deployment options.
 		
         Visual Studio 2019 (C++) Premium, Professional, Ultimate or Team Editions required for development.
         Visual Studio 2019 C and C++ Runtimes required for deployment.
+
         .NET 4.8 Framework is required for the .NET wrapper.
+
 		
         Visual Studio 2022 (C++) Premium, Professional, Ultimate or Team Editions required for development.
         Visual Studio 2022 C and C++ Runtimes required for deployment.
         
-		.NET 4.8 Framework is required for the .NET wrapper.
+        .NET 4.8 Framework is required for the .NET wrapper.
 		 
-#####Linux
+##### Linux
         Red Hat Enterprise Linux Server 7.x
         RedHat 8 gcc 10.4
         SUSE Linux Enterprise Server 12
@@ -50,7 +55,7 @@ Windows:
 	
         * The minimum supported versions of gcc are version 4.8.5 and 8.3.0 on Linux.
 		
-#####MacOS
+##### MacOS
         MacOS 13 Ventura x64 Intel chip
         MacOS 13 Ventura M1/M2 Apple chip.
 		
@@ -73,7 +78,7 @@ Find a bug or want to request a new feature?  Please let us know by submitting a
 
 
 ## Licensing
-Copyright 2022 Esri
+Copyright 2024 Esri
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
