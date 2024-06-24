@@ -31,10 +31,10 @@ MacOS:
         FileGDB_API_MACOSX15_64gcc8.zip - Built with GCC
 
 Windows:
-...
+```
 	FileGDB_API_VS2019.zip - Built with Microsoft Visual Studio 2019
 	FileGDB_API_VS2022.zip - Built with Microsoft Visual Studio 2022
-...
+```
 
 ## Requirements
 
