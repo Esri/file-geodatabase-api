@@ -25,12 +25,16 @@ Linux (64-bit):
 	FileGDB_API_RHEL8_64.tar.gz - RedHat Enterprise Linux 8.x
 
 MacOS:
+
         FileGDB_API_MACOSX15_64clang.zip - Built with clang
+	
         FileGDB_API_MACOSX15_64gcc8.zip - Built with GCC
 
 Windows:
-        FileGDB_API_VS2019.zip - Built with Microsoft Visual Studio 2019
-        FileGDB_API_VS2022.zip - Built with Microsoft Visual Studio 2022
+
+	FileGDB_API_VS2019.zip - Built with Microsoft Visual Studio 2019
+
+	FileGDB_API_VS2022.zip - Built with Microsoft Visual Studio 2022
 
 ## Requirements
 
