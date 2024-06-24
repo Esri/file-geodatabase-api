@@ -13,16 +13,19 @@ Feature classes can be joined, but the fields list must contain at most one fiel
 Download the operating system/compiler varient(s) of the API that you need and unzip it into a folder.
 
 Linux (64-bit):
-        FileGDB_API-RHEL7-64gcc83.tar.gz
-        FileGDB_API_RHEL7_64.tar.gz
+        FileGDB_API-RHEL7-64gcc83.tar.gz - Built with GCC 8.3 on RHEL 7
+        FileGDB_API-RHEL8-64gcc114.tar.gz - Built with GCC 8.3 on RHEL 8
+        FileGDB_API-RHEL8-64gcc83.tar.gz - Built with GCC 11.4 on RHEL 8
+        FileGDB_API_RHEL7_64.tar.gz - RedHat Enterprise Linux 7.x
+        FileGDB_API_RHEL8_64.tar.gz - RedHat Enterprise Linux 8.x
 
 MacOS:
-        FileGDB_API_MACOSX15_64clang.zip
-        FileGDB_API_MACOSX15_64gcc8.zip
+        FileGDB_API_MACOSX15_64clang.zip - Built with clang
+        FileGDB_API_MACOSX15_64gcc8.zip - Built with GCC
 
 Windows:
-        FileGDB_API_VS2017.zip
-        FileGDB_API_VS2019.zip
+        FileGDB_API_VS2019.zip - Built with Microsoft Visual Studio 2019
+        FileGDB_API_VS2022.zip - Built with Microsoft Visual Studio 2022
 
 ## Requirements
 
