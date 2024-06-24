@@ -14,10 +14,10 @@ Download the operating system/compiler varient(s) of the API that you need and u
 
 Linux (64-bit):
 	FileGDB_API-RHEL7-64gcc83.tar.gz - Built with GCC 8.3 on RHEL 7
-	        FileGDB_API-RHEL8-64gcc114.tar.gz - Built with GCC 8.3 on RHEL 8
-	        FileGDB_API-RHEL8-64gcc83.tar.gz - Built with GCC 11.4 on RHEL 8
-	        FileGDB_API_RHEL7_64.tar.gz - RedHat Enterprise Linux 7.x
-	        FileGDB_API_RHEL8_64.tar.gz - RedHat Enterprise Linux 8.x
+FileGDB_API-RHEL8-64gcc114.tar.gz - Built with GCC 8.3 on RHEL 8
+FileGDB_API-RHEL8-64gcc83.tar.gz - Built with GCC 11.4 on RHEL 8
+FileGDB_API_RHEL7_64.tar.gz - RedHat Enterprise Linux 7.x
+FileGDB_API_RHEL8_64.tar.gz - RedHat Enterprise Linux 8.x
 
 MacOS:
         FileGDB_API_MACOSX15_64clang.zip - Built with clang
