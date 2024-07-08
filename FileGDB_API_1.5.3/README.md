@@ -24,7 +24,8 @@ Linux (64-bit):
 MacOS:
 ```
         FileGDB_API_MACOSX15_64clang.zip - Built with clang
-        FileGDB_API_MACOSX15_64gcc8.zip - Built with GCC
+        FileGDB_API_MACOSX15_64gcc8.zip - Built with GCC 8
+        FileGDB_API_MACOSX15_64gcc10.zip - Built with GCC 10
 ```
 Windows:
 ```
