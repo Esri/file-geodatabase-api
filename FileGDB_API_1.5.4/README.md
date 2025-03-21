@@ -1,5 +1,5 @@
 
-#FileGeodatabase API_1.5.4
+FileGeodatabase API_1.5.4
 The File Geodatabase C++ API for Windows, MacOS and Linux. The API provides basic tools that allow the creation of file geodatbases, feature classes and tables. Simple features can be created and loaded. See the README included in each of the zip/tar files for a more complete list. .NET bindings are included.
 
 What's New
