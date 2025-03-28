@@ -3,10 +3,12 @@
 The File Geodatabase C++ API for Windows, MacOS and Linux. The API provides basic tools that allow the creation of file geodatbases, feature classes and tables. Simple features can be created and loaded. See the README included in each of the zip/tar files for a more complete list. .NET bindings are included.
 
 ## What's New
-
+Pick up security fixes for components used by the API.
 
 ## Fixed
-
+Expat updated from 2.6.0 to 2.6.4
+Libxslt updated from 1.1.29 to 1.1.43
+Libxml2 updated from 2.12.6 to 2.13.6
 
 ## Instructions
 Download the operating system/compiler varient(s) of the API that you need and unzip it into a folder.
