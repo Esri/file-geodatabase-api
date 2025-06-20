@@ -21,13 +21,13 @@ FileGDB_API_VS2019.zip
 ## Requirements
 
 #####Windows
-        Windows 2008 Server Standard, Enterprise & Datacenter (32-bit and 64-bit) SP2
+        Windows 2008 Server Standard, Enterprise & Datacenter (64-bit) SP2
         Windows 2008 R2 Server Standard, Enterprise, and Datacenter (64-bit)
         Windows 2012 Server Standard and Datacenter (64-bit)  
         Windows 2012 R2 Server Standard and Datacenter (64-bit)  	 
-        Windows 7 Ultimate, Enterprise, Professional, Home Premium (32-bit and 64-bit)
-        Windows 8.1 Enterprise, Professional  (32-bit and 64-bit)
-        Windows 10 Enterprise, Professional (32-bit and 64-bit)  
+        Windows 7 Ultimate, Enterprise, Professional, Home Premium (64-bit)
+        Windows 8.1 Enterprise, Professional  (64-bit)
+        Windows 10 Enterprise, Professional (64-bit)  
 
          For more information, see http://www.microsoft.com/visualstudio/11/en-us/products/compatibility
          See the same link for deployment options.
