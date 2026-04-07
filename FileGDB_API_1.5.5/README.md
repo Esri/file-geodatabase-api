@@ -10,7 +10,9 @@ Pick up security fixes for components used by the API.
 
 ## Fixed
 Expat updated from 2.6.4 to 2.7.3
+
 Libxslt updated from 1.1.43 to 1.1.45
+
 Libxml2 updated from 2.13.6 to 2.15.1
 
 ## Instructions
