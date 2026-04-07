@@ -17,14 +17,18 @@ Libxml2 updated from 2.13.6 to 2.15.1
 Download the operating system/compiler varient(s) of the API that you need and unzip it into a folder.
 
 ### Linux (64-bit):
-
+    Supported via Rocky 9, same tar file.
+	RedHat 9
+	Ubuntu 20.04
+	Ubuntu 24.04
 
 ### MacOS:
-
-
+    MacOS 13 Ventura x64 Intel chip
+    MacOS 13 Ventura M1/M2 Apple chip.
+	
 ### Windows:
-
 	FileGDB_API_VS2022.zip - Built with Microsoft Visual Studio 2022
+	
 ## Requirements
 ### Windows
     The supported platforms (for development) are:
